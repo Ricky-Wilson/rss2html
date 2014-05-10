@@ -1,0 +1,7 @@
+setup.py
+rss2html/rss2html.py
+rss2html.egg-info/PKG-INFO
+rss2html.egg-info/SOURCES.txt
+rss2html.egg-info/dependency_links.txt
+rss2html.egg-info/not-zip-safe
+rss2html.egg-info/top_level.txt
